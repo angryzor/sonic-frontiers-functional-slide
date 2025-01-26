@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28)
-project(functional-slide VERSION 0.0.2
+project(functional-slide VERSION 0.0.3
                  DESCRIPTION "Functional Slide"
                  LANGUAGES CXX)
 
